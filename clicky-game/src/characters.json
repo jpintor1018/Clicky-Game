@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image": "https://static3.businessinsider.com/image/5bdc5bc65f1f7565cd77a159/1-mario-donkey-kong-1981.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Luigi",
+        "image": "https://image.businessinsider.com/5bdc5efe9e8c53672327e5da?width=600&format=jpeg&auto=webp"
+    },
+    {
+        "id": 3,
+        "name": "Rosalina",
+        "image": "https://www.ssbwiki.com/images/thumb/d/da/Rosalina_MPTop100.png/1200px-Rosalina_MPTop100.png"
+    },
+    {
+        "id": 4,
+        "name": "Fox",
+        "image": "https://image.businessinsider.com/5bdc5e55e4218a6382429fac?width=600&format=jpeg&auto=webp"
+    },
+    {
+        "id": 5,
+        "name": "Zelda",
+        "image": "http://images.nintendolife.com/news/2018/06/gallery_super_smash_bros_ultimate_character_artwork/list-item/17/image/0/large.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Peach",
+        "image": "http://www.smashbros.com/images/og/peach.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Daisy",
+        "image": "https://www.ssbwiki.com/images/thumb/2/21/Daisy_SSBU.png/1200px-Daisy_SSBU.png"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Mario",
+        "image": "http://images.nintendolife.com/news/2018/06/gallery_super_smash_bros_ultimate_character_artwork/list-item/18/image/0/large.jpg"    
+    },
+    {
+        "id": 9,
+        "name": "Wolf",
+        "image":"https://assets.vg247.com/current//2018/06/NintendoSwitch_SuperSmashBrosUltimate_CharacterArt_49.png"
+    },
+    {
+        "id": 10,
+        "name": "Mii Gunner",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICZzxwMETtc8xjCPOqOQ-y3_Y1LnCQVlZljGkl1DGmTmBXsVc7A&s"
+    },
+    {
+        "id": 11,
+        "name": "Mii Swordfighter",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgdSu-vAKnbUCBSwCfR8w2sQXj2Zs-qc1YIBoslfhgvHnnirKj&s"
+    },
+    {
+        "id": 12,
+        "name": "Mii Brawler",
+        "image":"https://i.pinimg.com/originals/3a/52/db/3a52db5bbe6f27065cfbded7ea79a8d0.jpg"
+    }
+]
